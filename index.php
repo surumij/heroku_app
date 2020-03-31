@@ -1,4 +1,4 @@
 <?php
-echo "PoC for CI"
+echo "Continuous Integration PoC"
 
 ?>
