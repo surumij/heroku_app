@@ -1,4 +1,4 @@
 <?php
-echo "Heroku testing!!!!"
+echo "PoC for CI"
 
 ?>
